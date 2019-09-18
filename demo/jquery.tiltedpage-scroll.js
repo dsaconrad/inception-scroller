@@ -1,13 +1,9 @@
 /* ===========================================================
  * jquery-tiltedpage-scroll.js v1.2.1
  * ===========================================================
- * Copyright 2013 Pete Rojwongsuriya.
- * http://www.thepetedesign.com
- *
+ * Copyright 2019 Conrad Dsa.
+ 
  * Create a beautiful 3D tilted effect on scroll
- * with Tilted Page Scroll plugin
- *
- * https://github.com/peachananr/tiltedpage-scroll
  * 
  * License: GPL v3
  *
