@@ -44,8 +44,5 @@ That's it for the HTML part. Isn't that easy? Now, you can just call the functio
 ````
 
 Now you will have another cool way to showcase your website to your viewers. I hope you find this free plugin useful.
-
-If you want to see more of my plugins, visit [The Pete Design](http://www.thepetedesign.com/#design), or follow me on [Twitter](http://www.twitter.com/peachananr) and [Github](http://www.github.com/peachananr).
-
 ## Other Resources
 - Tutorial (Coming Soon)
