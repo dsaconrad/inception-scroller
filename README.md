@@ -1,10 +1,10 @@
 #Tilted Page Scroll
 Create a beautilful 3D tilted scrolling effect for your website with jQuery Tilted Page Scroll.
 
-[![Tilted Page Scroll](http://www.thepetedesign.com/images/tiltedpage_scroll_image.png "Tilted Page Scroll")](http://www.openpython.online/projects/inception/index.html)
+[![Tilted Page Scroll](http://www.thepetedesign.com/images/tiltedpage_scroll_image.png "Tilted Page Scroll")](http://iconrad.website/projects/inception/)
 
 ## Demo
-[View demo](http://www.openpython.online/projects/inception/index)
+[View demo](http://iconrad.website/projects/inception/)
 
 ## Compatibility
 Modern browsers such as Chrome, Firefox, and Safari on both desktop and smartphones have been tested. I have not tested this on IE.
